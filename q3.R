@@ -1,3 +1,8 @@
+# This program assumes data has been read in. ie: 
+# NEI <- readRDS("summarySCC_PM25.rds")
+# SCC <- readRDS("Source_Classification_Code.rds")
+
+
 #question 3
 
 library(dplyr)
